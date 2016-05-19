@@ -13,9 +13,6 @@ Podrá examinar breves detalles de un caso sin editarlo pulsando sobre la identi
 
 Podrá editar el caso presionando el botón *Editar* de la columna *Acciones* y podrá eliminarlo (tras confirmar) con el botón *Eliminar* de la misma columna. Si conoce el número de caso, también podrá editarlo empleando un URL de la forma *https://defensor.info/mujeresindigenas/casos/3/edita*, cambiando 3 por la identificación del caso.
 
-Podrá editar el caso presionando el botón *Editar* de la columna *Acciones* y podrá eliminarlo (tras confirmar) con el botón *Eliminar* de la misma columna. Si conoce el número de caso, también podrá editarlo empleando un URL de la forma *https://defensor.info/mujeresindigenas/casos/3/edita*, cambiando 3 por la identificación del caso.
-
-# falta verificar como se filtra en mujeres indigenas
 
 
 
