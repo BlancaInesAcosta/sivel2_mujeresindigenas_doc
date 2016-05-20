@@ -38,7 +38,7 @@ Al elegir una de las tablas, verá los registros que tiene y podrá bien crear u
 
 Para no perder compatibilidad entre su instalación de SIVeL2 y la de otras organizaciones, pero a la vez para permitirle personalizar el sistema a sus necesidades de sistematización de información, sugerimos no cambiar ni eliminar los registros de las tablas básicas, sino agregar los que necesite su organización y deshabilitar (poniendo una fecha de deshabilitación) los registros que no requiera. En la siguiente figura se presenta el formulario para añadir un nuevo Estado civil:
 
-![](https://venezuela.sjrlac.info/doc/html/pnuevabasica.png "Nuevo Tipo de Sitio") "Nuevo Estado civil")
+![Nuevo Estado civil](nuevo_estado_civil) "Nuevo Estado civil")
 
 Cada entrada (i.e registro) de una tabla básica tiene una llave, que puede constar de uno o más datos (i.e campos) del registro. Al actualizar tablas básicas tenga en cuenta que no pueden modificarse las llaves. Por ejemplo en una categoría ya ingresada no es posible modificar supracategoría o fecha de violencia. Si requiere actualizar una llave en un registro, debe primero eliminarlo de la tabla básica y después volverlo a añadir haciendo los cambios apropiados.
 
