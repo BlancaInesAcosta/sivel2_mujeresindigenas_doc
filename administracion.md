@@ -1,18 +1,5 @@
  
-## Capítulo 3 Administración {#capitulo_3_administracion}
-
-**Tabla de contenidos**
-
-1. Labores administrativas desde la interfaz web
-
-    1.1. Tablas básicas
-    
-    1.2. Usuarios
-2. Labores administrativas desde el interprete de comandos
-    
-    2.1. Copias de respaldo
-    
-    2.2. Configuraciones
+## Administración {#administracion}
 
 **Logros**
 
@@ -24,9 +11,9 @@ Un usuario con el rol de Administrador, podrá realizar diversas operaciones des
 
 En la interfaz web un usuario que no tenga el rol de Administrador no podrá ingresar a modificar tablas básicas ni a manejar usuarios.
 
-## 1. Labores administrativas desde la interfaz web {# 1._labores_administrativas _desde_la_interfaz_web}
+## Labores administrativas desde la interfaz web {# labores_administrativas _desde_la_interfaz_web}
 
-### 1.1. Tablas básicas {#1.1._tablas_basicas}
+### Tablas básicas {#tablas_basicas}
 
 Ingresando por el menú Administración->Tablas Básicas puede cambiar parametros de cualquiera de las tablas básicas.
 
@@ -54,7 +41,7 @@ En general la información de cada tabla básica es autoexplicativa, algunas que
 
 * Al ingresar o editar un presunto responsable se debe especificar si es subestructura de otro presunto responsable. En el marco conceptual por defecto los presuntos responsable que no son subestructura son: POLO ESTATAL, POLO INSURGENTE, OTROS y SIN INFORMACIÓN. Los demás presuntos responsables se clasifican como subestructuras de estos o de otros que a su vez descienden de estos. No deben generarse ciclos al especificar subestructuras --por ejemplo que un presunto responsable A sea subestructura de B y B
 
-### 1.2. Usuarios {#1.2._usuarios}
+### Usuarios {#usuarios}
 
 Esta opción del menú presenta el listado de usuarios de la base (como se presenta en la figura)
 
