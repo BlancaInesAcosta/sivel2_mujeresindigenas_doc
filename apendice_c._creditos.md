@@ -29,4 +29,3 @@ Los créditos hasta la versión 1.2 pueden consultarse en http://sivel.sourcefor
 * Financiación: Observatorio de violencias contra las mujeres indígenas que mediante contrato en 2016 permitió la personalización de SIVeL 2. 
 * Agradecemos a CODACOP, ONIC, OIK y ACIN 
 
-#  La sección sobre Refugio y sus categorias concebidos por Randolf Laverde y Merlys Mosquera. lo quite
