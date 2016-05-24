@@ -64,7 +64,7 @@ Para iniciar una sesión debe ingresar su nombre de usuario y su clave (que debi
 
 Una vez autenticado verá el menú principal.
 
-![Menu Principal](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/menu_prin.png)
+![Menu Principal](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/menu_principal.png)
 Dependiendo del rol de su usuario (ver Sección 2, “Recurso Humano”) tendrá o no tendrá acceso a las opciones del menú: Por ejemplo una persona con rol analista no tendrá acceso al menú Administración->Usuarios. --que si puede ser usado por
 quien tenga rol administrador o administrador de oficina.
 
