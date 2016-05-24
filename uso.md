@@ -35,7 +35,7 @@ SIVeL2 es una aplicación web por lo que se usa con un navegador que soporte Jav
 
 Hemos procurado que la operación de SIVeL2 sea simple, basta que tenga en cuenta generalidades de la interacción con su navegador por ejemplo si emplea los recomendados:
 
-* Los cuadros de selección única son desplegables y sólo permiten elegir una opción
+* Los cuadros de selección única son desplegables y sólo permiten elegir una opción.
 * 
 ![Cuadro de Selección Unica](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/seleccion_unica.png)
 
