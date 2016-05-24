@@ -36,19 +36,19 @@ SIVeL2 es una aplicación web por lo que se usa con un navegador que soporte Jav
 Hemos procurado que la operación de SIVeL2 sea simple, basta que tenga en cuenta generalidades de la interacción con su navegador por ejemplo si emplea los recomendados:
 
 * Los cuadros de selección única son desplegables y sólo permiten elegir una opción
-![](https://venezuela.sjrlac.info/doc/html/selunica.png "Cuadro de Selección Única")
+![Cuadro de Selección Múltiple](https://venezuela.sjrlac.info/doc/html/selunica.pngx)
 
 * Los cuadros de selección múltiple permiten seleccionar/deseleccionar varias opciones. Para hacerlo presione la tecla **Control** mientras pulsa el botón izquierdo del ratón.
 
-![](https://venezuela.sjrlac.info/doc/html/selmultiple.png  "Cuadro de Selección Múltiple")
+![Cuadro de Selección Múltiple](https://venezuela.sjrlac.info/doc/html/selmultiple.png)
 
 * En cuadros de selección podrá comenzar a escribir la palabra con la que comienza la opción que desea elegir.
 
-### 1. Inicio de una sesión y autenticación {#1.-inicio-de-una-sesion-y-autenticacion}
+### Inicio de una sesión y autenticación {#inicio_de_una_sesion_y_autenticacion}
 
 Desde un computador seguro (preferiblemente con OpenBSD o Ubuntu) ingrese a su navegador y en la barra de direcciones digite: https://defensor.info/mujeresindigenas/sivel2/.
 
-![](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/autenticacion.png?raw=true "Autenticación")
+![Autenticación](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/autenticacion.png?raw=true)
 
 ![](https://venezuela.sjrlac.info/doc/html/warning.png "Aviso")	
 **Aviso**
