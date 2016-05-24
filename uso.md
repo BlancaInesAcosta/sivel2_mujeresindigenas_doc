@@ -72,4 +72,5 @@ quien tenga rol administrador o administrador de oficina.
 Los usuarios ACIN veran un menú más amplio que las otras organizaaciones. 
 
 
+#falta dos cuadros de seleccion 
 
