@@ -1,4 +1,4 @@
-# 2. Recursos humanos
+# 2. Recursos humanos {#recursos_humanos}
 
 Para usar el sistema de información de manera continua se requieren personas capacitadas, distribuidas en oficinas en diversas partes y que cumplan con los siguiente roles:
 
@@ -12,6 +12,6 @@ y además mantiene y mejora la infraestructura tecnológica buscando garantizar 
 
 Desarrollador(es) de SIVeL: Realiza personalizaciones avanzadas y las aporta liberándolas al dominio público. En su labor tiene acceso como de administrador a la información del sistema o sistemas alojados en el servidor donde desarrolla ---que puede ser diferente al servidor de producción si se requiere limitar su acceso a datos.
 
-## necesito comprobar que casos puede editar un analista
+
 
 
