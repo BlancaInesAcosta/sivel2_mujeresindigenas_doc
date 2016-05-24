@@ -1,5 +1,5 @@
  
-# Apéndice A. Novedades {#apendice-a.-novedades}
+# Apéndice A. Novedades {#apendice_a._novedades}
 
 Versión 2.0a3 (16.Oct.2014)
 * Captura de información operativa con un diseño basado en el principio "primero movil".
