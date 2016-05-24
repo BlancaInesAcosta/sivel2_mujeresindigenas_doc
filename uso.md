@@ -50,21 +50,21 @@ Desde un computador seguro (preferiblemente con OpenBSD o Ubuntu) ingrese a su n
 
 ![Autenticación](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/autenticacion.png?raw=true)
 
-![](https://venezuela.sjrlac.info/doc/html/warning.png "Aviso")	
+![Aviso](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/aviso.png)	
 **Aviso**
 
 * Note que el URL comienza con *https* es decir se transmite información del servidor a su computador con el protocolo del web típico (HTTP) pero con cifrado fuerte SSL. Este cifrado requiere que el servidor web tenga un certificado, como empleamos un certificado autofirmado, su navegador reportará la situación como problemática, aún cuando no lo es.
 
 Para iniciar una sesión debe ingresar su nombre de usuario y su clave (que debió ser creada por un usuario con rol administrador).
 
-![](https://venezuela.sjrlac.info/doc/html/warning.png "Aviso")	
+![Aviso](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/aviso.png)	
 **Aviso**
 
 * SIVeL2 no almacena su clave directamente sino una especie de huella digital de la misma (condensado bcrypt). Por esto puede emplear la clave que prefiera con la confianza que no podrá ser conocida por administradores que tengan acceso a la base. Se recomienda que tenga números, letras y caracteres especiales. Es conveniente cambiarla periódicamente, puede hacerlo desde Administración->Clave.
 
 Una vez autenticado verá el menú principal.
 
-![](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/menu_prin.png?raw=true "Menu Principal")
+![Menu Principal](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/menu_prin.png)
 Dependiendo del rol de su usuario (ver Sección 2, “Recurso Humano”) tendrá o no tendrá acceso a las opciones del menú: Por ejemplo una persona con rol analista no tendrá acceso al menú Administración->Usuarios. --que si puede ser usado por
 quien tenga rol administrador o administrador de oficina.
 
