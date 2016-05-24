@@ -1,5 +1,5 @@
  
-# Apéndice B. Llamado público a auditar SIVeL {#apendice_b._llamado_publico_a_ auditar_sivel}
+# Apéndice B. Llamado público a auditar SIVeL {#apendice_b._llamado_publico_a_auditar_sivel}
 
 Aún no podemos hacer llamado público a auditar SIVeL2 porque está en etapa de desarrollo alpha, cuando pase a etapa beta, haremos el llamado.
 
