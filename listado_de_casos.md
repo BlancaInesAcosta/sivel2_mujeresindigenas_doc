@@ -1,4 +1,4 @@
-### 2. Listado de Casos  {#2.-listado-de-casos}
+### Listado de Casos  {#listado_de_casos}
  
 Al ingresar al menú casos, podrá ver un listado de los casos disponibles, notará que este listado se presenta por páginas de 25 casos, en la parte inferior encontrará una barra de navegacion que le permite pasar de una página a otra.
 
@@ -6,7 +6,7 @@ En la parte superior verá un botón para crear casos nuevos, un conteo de los c
 
 Se filtran los casos que contenga la(s) palabra(s) en uno de los campos presentados: Código del caso, nombre o apellido de la víctima, fecha de documentación inicial, organización, usuario.
 
-![](https://raw.githubusercontent.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/master/lista_de_casos.png "Listado de casos")
+![Listado de casos](https://raw.githubusercontent.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/master/lista_de_casos.png)
 
 Podrá examinar breves detalles de un caso sin editarlo pulsando sobre la identificación del caso (columna *Id*). Otra manera si ya conoce la identificación del caso es empleando una URL de la forma 
     *https://defensor.info/mujeresindigenas/casos/3*, cambiando 3 por la identificación.
