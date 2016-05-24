@@ -1,6 +1,6 @@
-# Capítulo 1. Introducción {#capitulo-1.-introduccion}
+# Introducción {#introduccion}
 
-## Tabla de contenido {#tabla-de-contenido} 
+## Tabla de contenido {#tabla_de_contenido} 
 1. Principios para el desarrollo de SIVeL2
 2. Recurso Humano
 3. Infraestructura Tecnológica
@@ -40,8 +40,6 @@ Reconocemos como fallas de seguridad críticas sólo las que puedan explotarse e
 # falta la fecha exacta de inicio
 # falta la direcció exacta de las fuentes
 # yo creo que toca agregar a Anzorc y mujeres indigenas ¿o no?
- # Este párafo yo lo elimine pero no si es necesario y el pie de página
-# Particularmente Merlys Mosquera y Randolf Laverde, apoyaron un cambio radical de tecnologías migrando hacia SIVeL 2.0 cuyo primer prototipo para la captura de información operó sobre la plataforma Ruby on Rails tras 4 meses de desarrollo [1]
-
+ 
 
 
