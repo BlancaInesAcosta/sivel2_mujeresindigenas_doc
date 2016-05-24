@@ -9,7 +9,7 @@ A partir de Enero de 2016 el Observatorio de violencias contra las mujeres indí
 
 La operación continúa del nuevo sistema de información requiere de personas que desempeñen roles y de una infraestructura tecnológica que opere de manera continua. Estos temas, precedidos de los principios que han guiado el desarrollo de SIVeL2, se presentan en el resto de este capítulo.
 
-## Principios para el desarrollo de SIVeL {#principios-para-el-desarrollo-de-sivel2}
+## Principios para el desarrollo de SIVeL {#principios_para_el_desarrollo_de_sivel2}
 
 Para el desarrollo de SIVeL2 se han procurado seguir los siguientes principios para manejo de información sobre violencia política, sugeridos por el sacerdote jesuita Javier Giraldo:
 
