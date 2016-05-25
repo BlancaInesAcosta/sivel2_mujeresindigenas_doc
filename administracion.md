@@ -19,9 +19,9 @@ Ingresando por el menú Administración->Tablas Básicas puede cambiar parametro
 
 ![Tablas Básicas](tablas_basicas.png)
 
-Al elegir una de las tablas, verá los registros que tiene y podrá bien crear uno nuevo (con el enlace Nuevo al final de los registros) o bien editar o eliminar un registro. La siguiente figura ejemplifica los registros de Tipos de Sitios
+Al elegir una de las tablas, verá los registros que tiene y podrá bien crear uno nuevo (con el enlace Nuevo al final de los registros) o bien editar o eliminar un registro. La siguiente figura ejemplifica los registros de Estados civiles.
 
-![](https://venezuela.sjrlac.info/doc/html/ptablabasica.png "Edición de la tabla básica Tipos de Sitios")Edición de la tabla básica Estado civil")
+![Estados civiles](https://github.com/BlancaInesAcosta/sivel2_mujeresindigenas_doc/blob/master/estados_civiles.png?raw=true)
 
 Para no perder compatibilidad entre su instalación de SIVeL2 y la de otras organizaciones, pero a la vez para permitirle personalizar el sistema a sus necesidades de sistematización de información, sugerimos no cambiar ni eliminar los registros de las tablas básicas, sino agregar los que necesite su organización y deshabilitar (poniendo una fecha de deshabilitación) los registros que no requiera. En la siguiente figura se presenta el formulario para añadir un nuevo Estado civil:
 
