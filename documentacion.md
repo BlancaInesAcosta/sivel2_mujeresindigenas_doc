@@ -37,10 +37,10 @@ En Internet puede descargar el código [fuente de SIVeL](https://github.com/paso
             3.2.2.1 Copias de respaldo
         
             3.2.2.2 Configuraciones
-+ A. Novedades
-+ B. Llamado público a auditar SIVeL
-+ C. Créditos
-+ Bibliografía
+- A. Novedades
+- B. Llamado público a auditar SIVeL
+- C. Créditos
+- Bibliografía
  # la fecha de registro
 # la fecha de creacion o de actualizacion
 # la direccion exacta de fuentes
