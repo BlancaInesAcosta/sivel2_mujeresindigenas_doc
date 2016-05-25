@@ -1,4 +1,4 @@
-# Infraestructura Tecnológica  {#infraestructura-tecnologica}
+# Infraestructura Tecnológica  {#infraestructura_tecnologica}
  
 También se requiere mantener una infraestructra tecnológica, que en la personalización de SIVeL2 para Mujeres Indígenas corresponde a la siguiente (ver otras posibles en la documentación de SIVeL genérico en http://sivel.sf.net/):
 
