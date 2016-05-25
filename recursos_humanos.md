@@ -1,4 +1,4 @@
-# 2. Recursos humanos {#recursos_humanos}
+# Recursos humanos {#recursos_humanos}
 
 Para usar el sistema de información de manera continua se requieren personas capacitadas, distribuidas en oficinas en diversas partes y que cumplan con los siguiente roles:
 
