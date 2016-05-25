@@ -31,7 +31,7 @@ En Internet puede descargar el código [fuente de SIVeL](https://github.com/paso
             
             1.2. Usuarios
         
-    2. Labores administrativas desde el interprete de comandos
+         2. Labores administrativas desde el interprete de comandos
         
             2.1. Copias de respaldo
         
