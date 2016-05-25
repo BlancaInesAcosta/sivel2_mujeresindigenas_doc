@@ -7,10 +7,12 @@ En Internet puede descargar el código [fuente de SIVeL](https://github.com/paso
 
 ### Tabla de contenidos  {#tabla_de_contenidos}
 1. Introducción
+2. 
    1. Principios para el desarrollo de SIVeL2
    2. Recurso Humano
    3. Infraestructura Tecnológica
 2. Uso
+3. 
    1. Inicio de una sesión y autenticación
    2. Listado de Casos
    3. Ingreso de nuevos casos y actualización
