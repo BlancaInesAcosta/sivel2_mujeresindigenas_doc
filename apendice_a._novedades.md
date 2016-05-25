@@ -10,4 +10,4 @@ Versión 2.0pre9 (Mar.2014)
 Sobre Ruby on Rails
 
 * El historial de la versión 1.2 puede verse en el [manual de esa versión]().
-
+# falta la direccion del manual
