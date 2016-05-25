@@ -6,37 +6,37 @@ SIVeL2 se dedica a Dios y a las víctimas. Su código fuente se libera al Domini
 En Internet puede descargar el código [fuente de SIVeL](https://github.com/pasosdeJesus/sivel2_mujeresindigenas/tree/master).
 
 ### Tabla de contenidos  {#tabla_de_contenidos}
-1. Introducción
-   1. Principios para el desarrollo de SIVeL2
-   2. Recurso Humano
-   3. Infraestructura Tecnológica
-2. Uso
-   1. Inicio de una sesión y autenticación
-   2. Listado de Casos
-   3. Ingreso de nuevos casos y actualización
+Introducción
+   Principios para el desarrollo de SIVeL2
+   Recurso Humano
+   Infraestructura Tecnológica
+Uso
+   Inicio de una sesión y autenticación
+   Listado de Casos
+   Ingreso de nuevos casos y actualización
          
-         3.1. Ficha
+         Ficha
             
-            3.1.1. Datos Básicos
-            3.1.2. Fuentes
-            3.1.3. Datos de la víctima
-            3.1.4. Eventos de violencia y seguimiento 
-            3.1.5. Anexos
-            3.1.6. Etiquetas
+            Datos Básicos
+            Fuentes
+            Datos de la víctima
+            Eventos de violencia y seguimiento 
+            Anexos
+            Etiquetas
                 
-3. Administración
+Administración
        
-          1. Labores administrativas desde la interfaz web
+          Labores administrativas desde la interfaz web
             
-            1.1. Tablas básicas
+            Tablas básicas
             
-            1.2. Usuarios
+            Usuarios
         
-         2. Labores administrativas desde el interprete de comandos
+         Labores administrativas desde el interprete de comandos
         
-            2.1. Copias de respaldo
+            Copias de respaldo
         
-            2.2. Configuraciones
+            Configuraciones
 + A. Novedades
 + B. Llamado público a auditar SIVeL
 + C. Créditos
