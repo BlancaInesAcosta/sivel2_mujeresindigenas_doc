@@ -25,7 +25,8 @@ En Internet puede descargar el código [fuente de SIVeL](https://github.com/paso
             3.1.6. Etiquetas
                 
 3. Administración
-        1. Labores administrativas desde la interfaz web
+       
+          1. Labores administrativas desde la interfaz web
             
             1.1. Tablas básicas
             
