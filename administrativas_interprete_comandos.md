@@ -1,5 +1,5 @@
 
-# 2. Labores administrativas desde el interprete de comandos {#labores_ administrativas_desde_el_interprete_de_comandos}
+# Labores administrativas desde el interprete de comandos {#labores_ administrativas_desde_el_interprete_de_comandos}
 
 Como las operaciones que se presentan a continuación deben realizarse desde una terminal con un interprete de comandos, recomendamos que lea al respecto (ver por ejemplo [basico_OpenBSD]) y que conozca la ubicación de las fuentes de SIVeL y del sitio o sitios que maneje. Por ejemplo en adJ las fuentes estarán en ```/var/www/htdocs/sivel2_sjrven```.
 
@@ -13,7 +13,7 @@ Saca volcado de la base (i.e un volcado es un archivo con instrucciones SQL para
 *Aviso*  
 Los volcados generados incluyen las fuentes de información. Debe mantenerlos cifrados y con permisos que no permitan lectura por parte de usuarios no autorizados.
 
-## Configuraciones {#Configuraciones}
+## Configuraciones {#configuraciones}
 
 El directorio de respaldo y la ruta donde se guardan anexos se configuran en ```config/initializers/sivel2_gen.rb```
 
