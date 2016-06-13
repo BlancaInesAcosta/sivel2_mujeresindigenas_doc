@@ -18,9 +18,9 @@ En Internet puede descargar el código [fuente de SIVeL](https://github.com/paso
          3.1. Ficha
             
             3.1.1. Datos Básicos
-            3.1.2. Datos de la víctima
-            3.1.3. Eventos de violencia y seguimiento
-            3.1.4. Fuentes 
+            3.1.2. Fuentes
+            3.1.3. Datos de la víctima
+            3.1.4. Eventos de violencia y seguimiento 
             3.1.5. Anexos
             3.1.6. Etiquetas
                 
